@@ -1,60 +1,57 @@
-# ☕️ Data Infrastructure & Analytics | Muhammad Syafiq Farhan
+# Hey, I'm Syafiq! ☕️
 
-**Bachelor of Computer Science (Honours) in Data Science & Computational Intelligence**
+**CS Grad | Data Science & Computational Intelligence @ IIUM**
 
-High-impact Data Professional specializing in building end-to-end ELT pipelines and distributed streaming architectures. I focus on turning complex, unstructured data into production-ready insights through precision engineering and automated orchestration.
-
----
-
-### 🟢 Status Report
-- 💼 **Current Role:** Analytics Engineer at **OR Technologies**.
-- 🚀 **Performance:** Achieved a **70% reduction** in manual tax reporting overhead via automation.
-- ⚡ **Dependencies:** `Python`, `SQL`, `Docker`, and a double-shot of Espresso.
-- 🛠 **System Admin:** Executed end-to-end migrations and version upgrades for **Alteryx and Tableau Server** environments.
+I build data pipelines and turn messy datasets into something that actually makes sense. Currently vibing as an Analytics Engineer — automating boring stuff so you don't have to 🚀
 
 ---
 
-### 🛠 Technical Loadout
+### 🟢 What I'm Up To
+- 💼 Analytics Engineer at **OR Technologies**
+- ⚡ Just saved my team ~70% of manual work through automation (they were hyped!)
+- 🛠 Running the show for **Alteryx & Tableau Server** upgrades and migrations
+- ☕ Fueled by: `Python`, `SQL`, `Docker`, and way too much coffee
 
-| Category | Tools |
+---
+
+### 🧰 My Toolkit
+
+| Category | What I Use |
 | :--- | :--- |
 | **Languages** | Python (Pandas, NumPy), SQL (PostgreSQL, BigQuery) |
-| **Orchestration** | Apache Airflow, Alteryx Designer, Alteryx Server |
-| **Visualization** | Tableau, Metabase, Streamlit, Power BI |
+| **Orchestration** | Airflow, Alteryx Designer, Alteryx Server |
+| **Viz** | Tableau, Metabase, Streamlit, Power BI |
 | **Compute** | PySpark, Apache Spark |
-| **Streaming** | Apache Kafka, Zookeeper |
+| **Streaming** | Kafka, Zookeeper |
 | **Transformation** | dbt Core, Great Expectations |
-| **Infrastructure** | Docker, Docker Compose, MinIO, Git |
+| **Infra** | Docker, Docker Compose, MinIO, Git |
 
 ---
 
-### 🏆 Featured Projects
+### 🔥 Projects I'm Proud Of
 
-#### 🚕 [NYC Taxi Data Pipeline](https://github.com/sofaquitegud/taxi-data-pipeline)
-**The Build:** Production-grade Medallion Architecture (Raw -> Processed -> Analytics).
-- **The W:** Orchestrated 5+ **Airflow** DAGs for automated backfills and daily ingestion.
-- **Reliability:** Built a **Star Schema** in **PostgreSQL** with automated quality gating.
+#### 🇲🇾 [Malaysia Economic Data Pipeline](https://github.com/sofaquitegud/economic-data-pipeline)
+End-to-end Medallion Architecture pipeline that pulls Malaysia's economic data from data.gov.my and turns it into pretty dashboards. Bronze → Silver → Gold, you know the drill.
 
-#### 📈 [Pulse-Stream: Real-Time Crypto](https://github.com/sofaquitegud/pulse-stream)
-**The Build:** Fault-tolerant streaming pipeline for market volatility tracking with sub-second latency.
-- **The W:** Hybrid processing layer using **Kafka** for real-time alerts and **Spark** for batch aggregations.
+#### 📈 [Pulse-Stream](https://github.com/sofaquitegud/pulse-stream)
+Real-time crypto tracking with Kafka + Spark. Built it to catch market movements before my coffee gets cold ☕
 
 #### 🏈 [NFL Big Data Bowl 2026](https://github.com/sofaquitegud/NFL_Big_Data_Bowl_2026)
-**The Build:** Spatial-temporal analysis of **560,000+ player tracking records**.
-- **The W:** Leveraged vectorized **Python** to quantify player efficiency through complex spatial feature engineering.
+Crunched 560K+ player tracking records. Turns out sports analytics is basically geometry with extra steps.
 
-#### 📊 [Sales & Use Tax Analytics](https://github.com/sofaquitegud/sales-use-tax-analytics)
-**The Build:** Automated multi-jurisdiction tax engine providing 24/7 reliability for enterprise compliance.
-- **The W:** 70% manual effort reduction; engineered complex rule-based workflows in **Alteryx Designer**.
+#### 📊 [Sales & Use Tax Automation](https://github.com/sofaquitegud/sales-use-tax-analytics)
+Built an automated tax engine in Alteryx. My team's manual effort went down 70% and I became the office hero for a week 😎
 
 ---
 
-### ☕️ Connect
-Fuelled by double-shot espressos and optimized schemas. Let's talk data.
+### 📬 Let's Chat!
 
-- 📬 **Email:** [syafiq.mfaridz@gmail.com](mailto:syafiq.mfaridz@gmail.com)
+Got a cool project? Just wanna talk data? Hit me up!
+
+- 📧 **Email:** [syafiq.mfaridz@gmail.com](mailto:syafiq.mfaridz@gmail.com)
 - 💼 **LinkedIn:** [in/syfqfrhnn](https://linkedin.com/in/syfqfrhnn)
 - 🌐 **Portfolio:** [sofaquitegud.github.io](https://sofaquitegud.github.io/)
 
 ---
-> "Scalable systems aren't built on luck—they're built on logic and caffeine." ☕️
+
+> "Good data pipelines are like good coffee — consistent, reliable, and best served automated." ☕
